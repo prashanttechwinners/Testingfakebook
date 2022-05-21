@@ -20,7 +20,4 @@ bundle
 bundle update
 sudo apt upgrade
 
-
-
-
 When we get CSRF Error than add the mentioned line in application controller  --------skip_before_action :verify_authenticity_token
