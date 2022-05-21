@@ -1,0 +1,26 @@
+Schema---------https://medium.com/@rithwikkukunuri30/database-design-for-facebook-4f52b55ebe94
+Rails Migration:---https://stackify.com/rails-migration-a-complete-guide/
+For Data/Images Storage-----https://medium.com/swlh/how-to-upload-images-into-your-rails-project-using-active-storage-1285a69e4cf5
+Put/patch difference----https://stackoverflow.com/questions/31089221/what-is-the-difference-between-put-post-and-patch
+
+Likes ---https://stackoverflow.com/questions/26702299/choosing-one-of-two-possible-associations-in-a-rails-model
+
+
+
+
+Bootstrap
+
+npm install bootstrap
+yarn add bootstrap
+sudo apt install composer
+composer require twbs/bootstrap:5.1.3
+Install-Package bootstrap Sass: Install-Package bootstrap.sass
+sudo apt update
+bundle
+bundle update
+sudo apt upgrade
+
+
+
+
+When we get CSRF Error than add the mentioned line in application controller  --------skip_before_action :verify_authenticity_token
